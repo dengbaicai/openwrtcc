@@ -1,0 +1,2 @@
+# openwrtcc
+适用
